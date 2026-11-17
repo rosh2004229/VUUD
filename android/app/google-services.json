@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "355896865249",
+    "firebase_url": "https://influencer-393505-default-rtdb.firebaseio.com",
+    "project_id": "influencer-393505",
+    "storage_bucket": "influencer-393505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355896865249:android:3731de474884e662e762a0",
+        "android_client_info": {
+          "package_name": "com.vuud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355896865249-5acvcoqkntgme0faorbj9gj85ijo3816.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indiainfluencer.app",
+            "certificate_hash": "41d939fd1ee2fac0a714c774a3a097717ecfb672"
+          }
+        },
+        {
+          "client_id": "355896865249-uho2g54jh1brouso5mdv84nc8v9et5a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indiainfluencer.app",
+            "certificate_hash": "8b06c0208e78e4eee673353b2faf96b3a81e63a0"
+          }
+        },
+        {
+          "client_id": "355896865249-jjlbg91cea4fahguo2i5iq9orut4naq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA167A-Zv7jikfLlajloSA862U7lBoXI64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355896865249-jjlbg91cea4fahguo2i5iq9orut4naq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355896865249-6v78gs53nssl0m1trgfjdv0mf0urgug9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.influencer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355896865249:android:3731de474884e662e762a0",
+        "android_client_info": {
+          "package_name": "com.indiainfluencer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355896865249-5acvcoqkntgme0faorbj9gj85ijo3816.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indiainfluencer.app",
+            "certificate_hash": "41d939fd1ee2fac0a714c774a3a097717ecfb672"
+          }
+        },
+        {
+          "client_id": "355896865249-uho2g54jh1brouso5mdv84nc8v9et5a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indiainfluencer.app",
+            "certificate_hash": "8b06c0208e78e4eee673353b2faf96b3a81e63a0"
+          }
+        },
+        {
+          "client_id": "355896865249-jjlbg91cea4fahguo2i5iq9orut4naq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA167A-Zv7jikfLlajloSA862U7lBoXI64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355896865249-jjlbg91cea4fahguo2i5iq9orut4naq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355896865249-6v78gs53nssl0m1trgfjdv0mf0urgug9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.influencer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355896865249:android:d98b2cac9d2b2cd3e762a0",
+        "android_client_info": {
+          "package_name": "com.influencer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355896865249-jjlbg91cea4fahguo2i5iq9orut4naq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA167A-Zv7jikfLlajloSA862U7lBoXI64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355896865249-jjlbg91cea4fahguo2i5iq9orut4naq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355896865249-6v78gs53nssl0m1trgfjdv0mf0urgug9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.influencer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355896865249:android:476f7905ad2c49fde762a0",
+        "android_client_info": {
+          "package_name": "com.influencer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355896865249-jjlbg91cea4fahguo2i5iq9orut4naq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA167A-Zv7jikfLlajloSA862U7lBoXI64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355896865249-jjlbg91cea4fahguo2i5iq9orut4naq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355896865249-6v78gs53nssl0m1trgfjdv0mf0urgug9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.influencer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

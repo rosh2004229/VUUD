@@ -1,0 +1,15 @@
+diff --git a/node_modules/react-native-modal/dist/modal.js b/node_modules/react-native-modal/dist/modal.js
+index 74edee4..b50250b 100644
+--- a/node_modules/react-native-modal/dist/modal.js
++++ b/node_modules/react-native-modal/dist/modal.js
+@@ -1,5 +1,9 @@
+ import * as React from 'react';
+-import { Animated, DeviceEventEmitter, Dimensions, InteractionManager, KeyboardAvoidingView, Modal, PanResponder, Platform, TouchableWithoutFeedback, View, } from 'react-native';
++import { Animated, DeviceEventEmitter, Dimensions, KeyboardAvoidingView, Modal, PanResponder, Platform, TouchableWithoutFeedback, View, } from 'react-native';
++const InteractionManager = {
++    createInteractionHandle: () => null,
++    clearInteractionHandle: () => {},
++};
+ import * as animatable from 'react-native-animatable';
+ import { buildAnimations, initializeAnimations, reversePercentage, } from './utils';
+ import styles from './modal.style';
